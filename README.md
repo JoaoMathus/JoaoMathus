@@ -1,4 +1,4 @@
-## Hi, I’m João Oliveira, and I'm a Computer Science student!
+## João Oliveira
 ### My stats:
 
 ![My general statistics](https://github-readme-stats.vercel.app/api?username=JoaoMathus&show_icons=true&theme=gradient&show_icons=true)
